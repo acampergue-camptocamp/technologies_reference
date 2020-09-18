@@ -2,4 +2,4 @@ name: technologies_reference
 title: Technologies Reference
 version: dev
 nav:
-- README.adoc
+- modules/ROOT/nav.adoc
