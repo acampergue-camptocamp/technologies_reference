@@ -19,10 +19,10 @@ jobs:
       - name: "Generate site using antora site action"
         uses: kameshsampath/antora-site-action@master
         with:
-         antora_playbook: antora-playbook.yml
-       - name: "List folder"
-         run: |
-            ls -ltr $GITHUB_WORKSPACE/build/
+          antora_playbook: antora-playbook.yml
+      - name: "List folder"
+        run: |
+          ls -ltr $GITHUB_WORKSPACE/build/
       - name: "Upload generated site"
         uses: actions/upload-artifact@v1.0.0
         with:
