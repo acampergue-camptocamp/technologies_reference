@@ -1,0 +1,30 @@
+= Technologies Reference
+Aurelien Campergue <aurelien.campergue@camptocamp.com>
+v1.0, 2020-09-18
+:docversion: 1.0.0
+
+:k8sdemoprojecturl: https://github.com/camptocamp/k8s-demo 
+
+
+This is the first test...
+
+The current version of the documentation is {docversion}.
+
+.Functionalites of this documentation
+- Show what camptocamp can do
+- Offer links to examples projects that can be used to learn and play with Technologies
+- test Antora
+
+== Description
+
+This project should include documentation of related project {k8sdemoprojecturl}
+The documentation of this project should also be rewritten in asciidoc and included here
+
+Github actions will be used to "build" this adoc into a HTML version using Antora https://antora.org/ 
+The result should be sent to a github pages website that would be automatically updated when this doc or subdocs are modified 
+
+== References
+
+https://docs.syn.tools/syn/index.html
+
+https://asciidoctor.org/docs/asciidoc-writers-guide/
