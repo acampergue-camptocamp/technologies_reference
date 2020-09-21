@@ -10,7 +10,6 @@ content:
     #branches: [v2.0, v1.0]
     edit_url: false
     start_path: docs
-  sources:
   - url: https://github.com/acampergue-camptocamp/technological_matrix.git
     branches: master
     #branches: [v2.0, v1.0]
