@@ -3,7 +3,9 @@
 ** xref:technological-matrix::index.adoc[Technological Matrix].
 *** xref:technological-matrix:devops:devopsmatrix.adoc[Devops Tools].
 *** xref:technological-matrix:documentation:docmatrix.adoc[Documentation Tools].
+*** https://git.camptocamp.com/camptocamp/is/k8s/reference/k8s-platform-implementation-reference
 * How-to
 ** Improve this documentation
+** https://github.com/camptocamp/charts [Use or develop Helm chart at camptocamp] 
 * Demos/Handson
-** Demo-k8s link
+** https://github.com/camptocamp/k8s-demo  [Link to k8s demo with Terraform & ArgoCD]
