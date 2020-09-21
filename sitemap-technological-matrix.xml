@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://antora.gitlab.io/demo/docs-site/technological-matrix/1.0.0/devops/devopsmatrix.html</loc>
+<lastmod>2020-09-21T15:12:57.204Z</lastmod>
+</url>
+<url>
+<loc>https://antora.gitlab.io/demo/docs-site/technological-matrix/1.0.0/documentation/docmatrix.html</loc>
+<lastmod>2020-09-21T15:12:57.204Z</lastmod>
+</url>
+<url>
+<loc>https://antora.gitlab.io/demo/docs-site/technological-matrix/1.0.0/index.html</loc>
+<lastmod>2020-09-21T15:12:57.204Z</lastmod>
+</url>
+</urlset>
