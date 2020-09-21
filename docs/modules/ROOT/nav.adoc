@@ -6,6 +6,6 @@
 *** https://git.camptocamp.com/camptocamp/is/k8s/reference/k8s-platform-implementation-reference
 * How-to
 ** Improve this documentation
-** https://github.com/camptocamp/charts [Use or develop Helm chart at camptocamp] 
-* Demos/Handson
-** https://github.com/camptocamp/k8s-demo  [Link to k8s demo with Terraform & ArgoCD]
+** https://github.com/camptocamp/charts[Use or develop Helm chart at camptocamp] 
+* Demos/Hands-on
+** https://github.com/camptocamp/k8s-demo[K8S demo with Terraform & ArgoCD]
