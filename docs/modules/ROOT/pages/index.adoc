@@ -6,7 +6,12 @@ v1.0, 2020-09-18
 :k8sdemoprojecturl: https://github.com/camptocamp/k8s-demo 
 
 
-This is the first test...
+WARNING: This is the first test...
+
+.Test notes
+[NOTE]
+This is is a small example of a 
+single-paragraph note.
 
 The current version of the documentation is {docversion}.
 
