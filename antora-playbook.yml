@@ -15,6 +15,11 @@ content:
     #branches: [v2.0, v1.0]
     edit_url: false
     start_path: docs
+  - url: https://github.com/camptocamp/k8s-demo.git
+    branches: convert_to_asciidoc
+    #branches: [v2.0, v1.0]
+    edit_url: false
+    start_path: docs
 #  - url: https://gitlab.com/antora/demo/demo-component-a.git
 #    branches: master
 #    # setting edit_url to false disables the Edit this Page link for any page that originates from this repository

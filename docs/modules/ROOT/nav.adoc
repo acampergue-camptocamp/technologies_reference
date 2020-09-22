@@ -8,4 +8,5 @@
 ** Improve this documentation
 ** https://github.com/camptocamp/charts[Use or develop Helm chart at camptocamp] 
 * Demos/Hands-on
+** xref:k8s-demo::index.adoc[Camptocamp’s Kubernetes Demo]
 ** https://github.com/camptocamp/k8s-demo[K8S demo with Terraform & ArgoCD]
