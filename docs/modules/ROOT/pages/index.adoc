@@ -33,3 +33,24 @@ The result should be sent to a github pages website that would be automatically 
 https://docs.syn.tools/syn/index.html
 
 https://asciidoctor.org/docs/asciidoc-writers-guide/
+
+== Tests
+
+=== Attachment
+
+link:{attachmentsdir}/staffmeeting.pdf[Download the Staff Meeting PDF].
+
+=== Examples
+
+[source,bash]
+----
+include::ROOT:example$example.sh[]
+----
+
+=== Images
+
+image::logo-with-text.svg[]
+
+=== Partials
+
+include::ROOT:partial$documentation.adoc[]

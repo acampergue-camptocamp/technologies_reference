@@ -1,13 +1,12 @@
 site:
+  # https://docs.antora.org/antora/2.2/playbook/configure-site/
   title: Camptocamp Demo Site
-  # the 404 page and sitemap files only get generated when the url property is set
   url: https://acampergue-camptocamp.github.io/technologies_reference
   start_page: technologies-reference::index.adoc
+  robots: allow
 content:
   sources:
-  - url: https://github.com/acampergue-camptocamp/technologies_reference.git
-    branches: master
-    #branches: [v2.0, v1.0]
+  - url: ./
     edit_url: false
     start_path: docs
   - url: https://github.com/acampergue-camptocamp/technological_matrix.git
