@@ -25,6 +25,13 @@ content:
 #    edit_url: false
 #  - url: https://gitlab.com/antora/demo/demo-component-b.git
 #    branches: [v2.0, v1.0]
+#
+## If you only want to use tags, you must explicitly disable branches.
+#
+#  sources:
+#  - url: https://gitlab.com/org/project-docs.git
+#    branches: ~
+#    tags: v*
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
