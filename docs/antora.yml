@@ -1,5 +1,8 @@
 name: technologies-reference
 title: Technologies Reference
 version: 1.0.0
+display_version: 1.0.0 (unfinished)
+prerelease: true
+start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
