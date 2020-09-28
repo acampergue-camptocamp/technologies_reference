@@ -9,8 +9,10 @@ content:
   - url: ./
     edit_url: false
     start_path: docs
+    branches: [master, v1.*]
   - url: https://github.com/acampergue-camptocamp/technological_matrix.git
     branches: master
+    # https://docs.antora.org/antora/2.2/playbook/configure-content-sources/#branches
     #branches: [v2.0, v1.0]
     edit_url: false
     start_path: docs
