@@ -7,8 +7,9 @@ site:
 content:
   sources:
   - url: ./
-    branches: master
+    branches: HEAD
     tags: v*
+    start_path: docs
   - url: https://github.com/acampergue-camptocamp/technological_matrix.git
     branches: master
     edit_url: false
