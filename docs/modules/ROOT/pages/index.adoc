@@ -1,7 +1,6 @@
 = Technologies Reference
 Aurelien Campergue <aurelien.campergue@camptocamp.com>
 v1.0, 2020-09-18
-:docversion: 1.0.0
 
 :k8sdemoprojecturl: https://github.com/camptocamp/k8s-demo 
 
@@ -13,7 +12,7 @@ WARNING: This is the first test...
 This is is a small example of a 
 single-paragraph note.
 
-The current version of the documentation is {docversion}.
+The current version of the documentation is {page-version}
 
 .Functionalites of this documentation
 - Show what camptocamp can do
